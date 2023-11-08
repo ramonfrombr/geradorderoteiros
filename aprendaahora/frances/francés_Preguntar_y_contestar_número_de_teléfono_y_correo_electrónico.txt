@@ -1,0 +1,21 @@
+Guion para video de enseñanza de francés: Preguntar y contestar número de teléfono y correo electrónico.
+
+Presentador: ¡Bonjour! Bienvenidos a nuestro video de enseñanza de francés. Hoy aprenderemos cómo preguntar y contestar el número de teléfono y el correo electrónico en francés. 
+
+Presentador: Comencemos por el número de teléfono. Para preguntar "¿Cuál es tu número de teléfono?", decimos en francés "Quel est ton numéro de téléphone?" 
+
+Actor 1: (Muestra un ejemplo de respuesta) Mi número de teléfono es el 555-1234. 
+
+Presentador: En francés, decimos "Mon numéro de téléphone est le 555-1234". ¿Lo pueden repetir?
+
+Actor 2: Mon numéro de téléphone est le 555-1234.
+
+Presentador: ¡Muy bien! Ahora pasemos al correo electrónico. Para preguntar "¿Cuál es tu correo electrónico?", en francés decimos "Quelle est ton adresse e-mail?"
+
+Actor 1: (Muestra un ejemplo de respuesta) Mi correo electrónico es ejemplo@gmail.com.
+
+Presentador: En francés, decimos "Mon adresse e-mail est exemple@gmail.com". Repítanlo conmigo.
+
+Actor 2: Mon adresse e-mail est exemple@gmail.com.
+
+Presentador: ¡Excelente! Ahora ya saben cómo preguntar y contestar el número de teléfono y el correo electrónico en francés. Recuerden practicar mucho para mejorar su pronunciación y fluidez. ¡Hasta la próxima clase!
